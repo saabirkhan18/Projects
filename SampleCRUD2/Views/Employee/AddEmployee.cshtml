@@ -1,0 +1,74 @@
+﻿@model SampleCRUD2.Models.Employee
+
+@{
+    ViewData["Title"] = "AddEmployee";
+}
+
+<h1>AddEmployee</h1>
+
+<h4>Employee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateAndUpdate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <input type="hidden" asp-for="EmployeeId" value="0" />
+                <input type="hidden" asp-for="Country_name" value="0" />
+                <label asp-for="Full_name" class="control-label"></label>
+                <input asp-for="Full_name" class="form-control" />
+                <span asp-validation-for="Full_name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Mobile" class="control-label"></label>
+                <input asp-for="Mobile" class="form-control" />
+                <span asp-validation-for="Mobile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Country_name" class="control-label"></label>
+                <select asp-for="CountryId" class="form-control" asp-items="@(new SelectList(ViewBag.Countries,"CountryId","Country_name"))"></select>
+                <span asp-validation-for="Country_name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="State" class="control-label"></label>
+                <select asp-for="StateId" class="form-control" asp-items="@(new List<SelectListItem> () { new SelectListItem() { Text = "--Select--", Value = "" } })"></select>
+                <span asp-validation-for="StateId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Add Employee" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#CountryId").change(function () {
+                $("#StateId").empty();
+                $.ajax({
+                    type: 'GET',
+                    url: '@Url.Action("GetStates", "Employee")',
+                    dataType: 'json',
+                    data: { country_id: $("#CountryId").val() },
+                    success: function (res) {
+                        $("#StateId").append('<option selected="selected" value="">---Select---</option>');
+                        $.each(res, function (i, state) {
+                            $("#StateId").append('<option value="' + state.value + '">' + state.text +'</option>');
+                        });
+                    }
+                })
+            });
+        });
+    </script>
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

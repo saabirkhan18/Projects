@@ -1,0 +1,7 @@
+D:\Saabir\Projects\Sample\Sample\bin\Debug\Sample.exe.config
+D:\Saabir\Projects\Sample\Sample\bin\Debug\Sample.exe
+D:\Saabir\Projects\Sample\Sample\bin\Debug\Sample.pdb
+D:\Saabir\Projects\Sample\Sample\obj\Debug\Sample.csproj.AssemblyReference.cache
+D:\Saabir\Projects\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+D:\Saabir\Projects\Sample\Sample\obj\Debug\Sample.exe
+D:\Saabir\Projects\Sample\Sample\obj\Debug\Sample.pdb

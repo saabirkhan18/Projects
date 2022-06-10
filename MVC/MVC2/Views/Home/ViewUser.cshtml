@@ -1,0 +1,27 @@
+﻿@model List<Employee>
+@{
+    ViewData["Title"] = "View User";
+}
+<h1>@ViewData["Title"]</h1>
+@*@Html.Partial("_Partial_AddUser")
+    @{ Html.RenderPartial("_Partial_AddUser");}
+    <partial name="_Partial_AddUser" />*@
+<div class="row">
+    <div class="col-md-6">
+        <table>
+            <tr>
+                <td>Fullname</td>
+                <td>Gender</td>
+                <td>Mobile number</td>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Gender</td>
+                    <td>@item.PhoneNumber</td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

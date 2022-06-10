@@ -1,0 +1,76 @@
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\appsettings.json
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.exe
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.dll
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Rohil Tasks\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+D:\Rohil Tasks\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rohil Tasks\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+D:\Rohil Tasks\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+D:\Rohil Tasks\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\Rohil Tasks\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Rohil Tasks\WebAPI\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+D:\Rohil Tasks\WebAPI\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\Rohil Tasks\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Rohil Tasks\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+D:\Rohil Tasks\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.dll
+D:\Rohil Tasks\WebAPI\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+D:\Rohil Tasks\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+D:\Rohil Tasks\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rohil Tasks\WebAPI\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\appsettings.json
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.exe
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Saabir\Projects\WebAPI\WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Saabir\Projects\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+D:\Saabir\Projects\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saabir\Projects\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+D:\Saabir\Projects\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+D:\Saabir\Projects\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\Saabir\Projects\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Saabir\Projects\WebAPI\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+D:\Saabir\Projects\WebAPI\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\Saabir\Projects\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Saabir\Projects\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+D:\Saabir\Projects\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.dll
+D:\Saabir\Projects\WebAPI\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+D:\Saabir\Projects\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+D:\Saabir\Projects\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache

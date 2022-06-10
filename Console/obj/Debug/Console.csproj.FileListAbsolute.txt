@@ -1,0 +1,7 @@
+D:\Saabir\Projects\Console\bin\Debug\Console.exe.config
+D:\Saabir\Projects\Console\bin\Debug\Console.exe
+D:\Saabir\Projects\Console\bin\Debug\Console.pdb
+D:\Saabir\Projects\Console\obj\Debug\Console.csproj.AssemblyReference.cache
+D:\Saabir\Projects\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+D:\Saabir\Projects\Console\obj\Debug\Console.exe
+D:\Saabir\Projects\Console\obj\Debug\Console.pdb
