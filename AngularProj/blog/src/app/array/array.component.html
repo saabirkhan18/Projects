@@ -1,0 +1,11 @@
+<p>array works!</p>
+<ul *ngFor="let user of users">
+    <li>
+{{user.name}}
+<ul *ngFor="let account of user.accounts">
+<li>
+    {{account}}
+</li>
+</ul>
+    </li>
+</ul>

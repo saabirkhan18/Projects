@@ -6,11 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Hello saabir';
-  data="step by step";
-  GetMyData()
-  {
-    return "hello this is function data";
-  }
- a=100;
+ 
 }

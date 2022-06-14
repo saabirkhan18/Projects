@@ -5,13 +5,19 @@ import { AppComponent } from './app.component';
 import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './register/register.component';
 import { DemoComponent } from './demo/demo.component';
+import { CounterComponent } from './counter/counter.component';
+import { ArrayComponent } from './array/array.component';
+import { InterpolationComponent } from './interpolation/interpolation.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
     RegisterComponent,
-    DemoComponent
+    DemoComponent,
+    CounterComponent,
+    ArrayComponent,
+    InterpolationComponent
   ],
   imports: [
     BrowserModule

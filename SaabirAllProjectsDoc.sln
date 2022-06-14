@@ -42,8 +42,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI\WebAPI.csproj", "{0F4B1D53-13FF-463C-862D-53FA9BCE438B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTTokenProj", "JWTAuth\JWTTokenProj.csproj", "{E471E8DE-0AD9-4A95-B8E1-90269A9CD0A2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,10 +88,6 @@ Global
 		{0F4B1D53-13FF-463C-862D-53FA9BCE438B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F4B1D53-13FF-463C-862D-53FA9BCE438B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F4B1D53-13FF-463C-862D-53FA9BCE438B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E471E8DE-0AD9-4A95-B8E1-90269A9CD0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E471E8DE-0AD9-4A95-B8E1-90269A9CD0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E471E8DE-0AD9-4A95-B8E1-90269A9CD0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E471E8DE-0AD9-4A95-B8E1-90269A9CD0A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
