@@ -12,7 +12,7 @@ export class StylebindingComponent implements OnInit {
   ngOnInit(): void {
   }
   color="green";
-bgColor="yellow";
+  bgColor="yellow";
   changecolor(){
     this.color="red";
     this.bgColor="gray";
