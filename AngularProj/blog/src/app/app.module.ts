@@ -8,6 +8,8 @@ import { DemoComponent } from './demo/demo.component';
 import { CounterComponent } from './counter/counter.component';
 import { ArrayComponent } from './array/array.component';
 import { InterpolationComponent } from './interpolation/interpolation.component';
+import { StylebindingComponent } from './stylebinding/stylebinding.component';
+import { HeaderComponent } from './header/header.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +19,9 @@ import { InterpolationComponent } from './interpolation/interpolation.component'
     DemoComponent,
     CounterComponent,
     ArrayComponent,
-    InterpolationComponent
+    InterpolationComponent,
+    StylebindingComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule
