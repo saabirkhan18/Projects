@@ -1,0 +1,9 @@
+<h1>Login form</h1>
+
+
+<input type="text" name="txtFullname" ngModel placeholder="Fullname" #txtFullname>
+<button (click)="add(txtFullname.value)"> add</button>
+
+<ul *ngFor="let list of List">
+    <li>{{list.value}} <button (click)="delete(list.id)">delete</button></li>
+</ul>

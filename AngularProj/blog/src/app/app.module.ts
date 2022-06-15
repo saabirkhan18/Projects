@@ -11,7 +11,9 @@ import { ArrayComponent } from './array/array.component';
 import { InterpolationComponent } from './interpolation/interpolation.component';
 import { StylebindingComponent } from './stylebinding/stylebinding.component';
 import { HeaderComponent } from './header/header.component';
-import {FormsModule} from '@angular/forms'
+import {FormsModule} from '@angular/forms';
+import { ListComponent } from './list/list.component';
+import { ChildComponent } from './child/child.component'
 
 @NgModule({
   declarations: [
@@ -23,7 +25,9 @@ import {FormsModule} from '@angular/forms'
     ArrayComponent,
     InterpolationComponent,
     StylebindingComponent,
-    HeaderComponent
+    HeaderComponent,
+    ListComponent,
+    ChildComponent
     
   ],
   imports: [
